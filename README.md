@@ -2,8 +2,8 @@
 
 **"Надоел беспорядок в проектах? FreePy превратит ваш рабочий стол из свалки скриптов в организованное пространство разработки!"**
 
-[![GitHub release](https://img.shields.io/github/v/release/yourusername/FreePy-IDE)](https://github.com/yourusername/FreePy-IDE/releases)
-[![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20macOS%20%7C%20Linux-blue)](https://github.com/yourusername/FreePy-IDE/releases)
+[![GitHub release](https://img.shields.io/github/v/release/yourusername/FreePy-IDE)](https://github.com/GryfGreen/FreePy-IDE/releases)
+[![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20macOS%20%7C%20Linux-blue)](https://github.com/GryfGreen/FreePy-IDE/releases)
 [![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
 
 ---

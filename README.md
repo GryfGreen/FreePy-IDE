@@ -325,24 +325,10 @@ FreePy распространяется под лицензией MIT. Подр�
 👨‍💻 Автор
 GryfGreen - разработчик, который устал от хаоса в Python проектах.
 
-GitHub | Telegram | Email
+https://github.com/GryfGreen| Telegram | gryfgreen.gg@gmail.com
 
 🎉 Начните упорядочивать свой код сегодня!
 Скачайте FreePy прямо сейчас и навсегда избавьтесь от хаоса в Python проектах! 🚀
-
-⬇️ Скачать для Windows 
-### Windows
-- **[FreePy_Windows_1.0.0.exe](releases/windows/FreePy_Windows_1.0.0.exe)** (64-bit)
-- Требуется: Windows 10/11, .NET Framework 4.8
-⬇️ Скачать для macOS 
-### macOS
-- **[FreePy_macOS_1.0.0.dmg](releases/macos/FreePy_macOS_1.0.0.dmg)** (Apple Silicon & Intel)
-- Требуется: macOS 11.0+
-⬇️ Скачать для Linux 
-### Linux
-- **[FreePy_Linux_1.0.0.AppImage](releases/linux/FreePy_Linux_1.0.0.AppImage)** (Universal)
-- **[FreePy_Linux_1.0.0.deb](releases/linux/FreePy_Linux_1.0.0.deb)** (Debian/Ubuntu)
-- Требуется: Qt5, Python 3.6+
 
 P.S. Ваш будущий я скажет вам спасибо, когда через полгода вы сможете найти и запустить любой свой проект за 30 секунд! 😉
 

@@ -1,11 +1,325 @@
-# 🐍 FreePy - Упорядочиваем хаос Python проектов
+# 🐍 FreePy - Tame Your Python Chaos / Упорядочиваем хаос Python проектов
 
-**"Надоел беспорядок в проектах? FreePy превратит ваш рабочий стол из свалки скриптов в организованное пространство разработки!"**
+> **🌍 Choose your language / Выберите язык:** [English](#-freepy---tame-your-python-chaos) | [Русский](#-freepy---упорядочиваем-хаос-python-проектов-1)
 
 [![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20macOS%20%7C%20Linux-blue)](https://github.com/GryfGreen/FreePy-IDE/releases)
 [![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
 [![GitHub Release](https://img.shields.io/github/v/release/GryfGreen/FreePy-IDE)](https://github.com/GryfGreen/FreePy-IDE/releases)
+
+***
+
+# 🐍 FreePy - Tame Your Python Chaos
+
+**"Tired of project chaos? FreePy transforms your desktop from a script junkyard into an organized developer workspace!"**
+
+## 😫 Does This Sound Familiar?
+
+* 📁 **Countless scripts** on your desktop named `test.py`, `test2.py`, `final.py`, `really_final.py`
+* 🔍 **Finding the right file** feels like an archaeological dig
+* 📝 **Forgot which Python version** you used in a project six months ago
+* 🔧 **Dependencies are missing**, and `requirements.txt` is hopelessly outdated
+* 🐛 **Debugging** with `print()` is your "professional" toolkit
+* 🔄 **Versions?** You have files like `v1_final_edited_new.py`!
+
+**If yes, this tool is for you!**
+
+***
+
+## ✨ What is FreePy?
+
+**FreePy** is not just an IDE; it's your **personal chaos manager** for Python development.
+
+It was born from the frustration of an ordinary developer, tired of:
+* Quick projects that turned into a complete mess
+* Throwaway scripts that ended up living forever
+* Our own disorganization (let's be honest!)
+* And just because "the moon wasn't in the right phase!" 🌙
+
+When I couldn't find anything suitable among existing IDEs and project managers, I had to **build my own solution**. That's how FreePy came to be.
+
+***
+
+## 🖼️ Visual Tour
+
+### 📊 Project Control Panel
+
+#### Main Window - Chaos Control Center
+![Main Window](screenshots/main-window.png)
+*Your launchpad for all Python projects. All projects are organized, sorted, and ready to work.*
+
+#### Import Existing Project
+![Import Project](screenshots/import-project.png)
+*Simply point to a folder with your code – FreePy will automatically detect the structure and add the project to the list.*
+
+#### Edit Project
+![Edit Project](screenshots/edit-project.png)
+*Update paths, change descriptions, configure settings – all in one convenient window.*
+
+#### Update Project Version
+![Update Version](screenshots/update-version.png)
+*Intuitive interface for version management. Choose the update type, add a comment – FreePy handles the rest.*
+
+### ✨ Intelligent Code Editor
+
+#### Editor with Syntax Highlighting (Dark Theme)
+![Editor Dark](screenshots/editor-dark.png)
+*Professional Python code highlighting with support for all modern language features.*
+
+#### Remove Comments - BEFORE
+![Comments Before](screenshots/comments-before.png)
+*Code cluttered with comments, making it hard to read and maintain.*
+
+#### Remove Comments - AFTER
+![Comments After](screenshots/comments-after.png)
+*Clean, compact code after automatic removal of all comments with a single button!*
+
+### 📝 Workspace
+
+#### Project Notes Panel
+![Notes](screenshots/notes.png)
+*Built-in notepad for each project. Jot down ideas, tasks, and notes right in the editor.*
+
+#### Program Output Panel
+![Output](screenshots/output.png)
+*Your code execution results. All messages, errors, and debug information in one place.*
+
+#### Detected Errors Panel
+![Errors](screenshots/errors.png)
+*Automatic detection of syntax errors, PEP 8 issues, and potential bugs.*
+
+#### Python Package Management
+![Packages](screenshots/packages.png)
+*Intelligent dependency management. FreePy analyzes your code and shows which packages are installed and which need to be added.*
+
+### 🐛 Professional Debugger
+
+#### Built-in Python Debugger
+![Debugger](screenshots/debugger.png)
+*A full-fledged debugging environment with breakpoints, variable watch, call stack, and interactive console.*
+
+#### Breakpoint Management
+![Breakpoints](screenshots/breakpoints.png)
+*Easily set, configure, and manage breakpoints in your code.*
+
+***
+
+## 🚀 **Download FreePy**
+
+> **📌 Important:** The first stable Linux release is ready! Windows and macOS versions are in active development. Follow our [Roadmap](https://github.com/GryfGreen/FreePy-IDE/issues/1) for updates.
+
+### Linux (Available Now)
+*   **[FreePy_Linux_1.0.0.AppImage](https://github.com/GryfGreen/FreePy-IDE/releases/latest)** (Universal) - Works on most distributions
+*   **[FreePy_Linux_1.0.0.deb](https://github.com/GryfGreen/FreePy-IDE/releases/latest)** (For Debian/Ubuntu/Mint)
+*   **Requirements:** Qt5 libraries, Python 3.6+
+
+### Windows (In Development)
+*   **FreePy_Windows_1.0.0.exe** (64-bit)
+*   **Requirements:** Windows 10/11, .NET Framework 4.8
+*   *Coming soon!*
+
+### macOS (In Development)
+*   **FreePy_macOS_1.0.0.dmg** (Apple Silicon & Intel)
+*   **Requirements:** macOS 11.0+
+*   *Coming soon!*
+
+**📥 Download the latest build from the [Releases page](https://github.com/GryfGreen/FreePy-IDE/releases).**
+
+***
+
+## 🎯 **Core Features**
+
+### 📁 **Project Management**
+*   **Organize** all your Python projects in one central hub
+*   **Automatic version tracking** (No more `_final_v3.py` files!)
+*   **JSON configuration** for each project – always know what and how to run
+*   **Quick access** to all projects from a unified list
+
+### ✨ **Smart Code Editor**
+*   **Python syntax highlighting** with support for all modern language features
+*   **Code autocompletion** (no need to memorize every method)
+*   **PEP 8 compliance checker** – keep your code clean and beautiful
+*   **One-click code formatting**
+*   **Themes:** Light and Dark (for those night coding sessions)
+
+### 🐛 **Built-in Debugger**
+*   **Integrated PDB debugger** – a real debugger, not just `print()`
+*   **Breakpoints:** Regular and conditional
+*   **Step-by-step execution:** Step Into, Step Over, Step Out
+*   **Real-time variable inspection**
+*   **Call stack viewer** – always know where you are
+
+### 📦 **Dependency Management**
+*   **Auto-detection** of imports in your code
+*   **Check installed packages**
+*   **Quick installation** of missing dependencies
+*   **No more forgotten** `requirements.txt` files
+
+### 🔄 **Versioning System**
+*   **Semantic Versioning** (1.2.3)
+*   **Change history** with comments
+*   **Automatic version updates** on significant changes
+*   **Rollback** to previous versions
+
+### 💾 **Safety & Backups**
+*   **Auto-save** every 30 seconds
+*   **Automatic backups** (you'll never lose your code)
+*   **Restore** from any backup point
+*   **Security checks** for executed commands
+
+***
+
+## 🎮 **How to Use: Quick Start**
+
+### Step 1: Create a Project
+1. Click **"New Project"**
+2. Specify the name, path, and description
+3. FreePy will create the folder structure and main file
+4. The project automatically appears in the list
+
+### Step 2: Work with Code
+1. Select a project and click **"Work on Project"**
+2. Write code in the editor – highlighting and autocompletion work automatically
+3. Use **Ctrl+/** for comments, **Tab** for indentation
+
+### Step 3: Run and Debug
+*   **F5** – Run the code
+*   **F8** – Start/stop the debugger
+*   **F9** – Set/remove a breakpoint
+*   **F10** – Step Over
+*   **F11** – Step Into
+
+### Step 4: Manage Versions
+1. After significant changes, click **"Update Version"**
+2. Select the update type (patch/minor/major)
+3. Add a comment about what changed
+4. FreePy will save the change history
+
+***
+
+## 🛠️ **Button Reference Guide**
+
+### 🏠 **Main Window:**
+
+| Button | What It Does | When to Use |
+| :--- | :--- | :--- |
+| **➕ New Project** | Creates a new project structure with folders and files | When starting a new project from scratch |
+| **📁 Add Project** | Adds an existing folder as a project | When you already have code but no structure |
+| **▶️ Run Project** | Opens the project in your chosen IDE or runs it | When you want to continue working or run the code |
+| **✏️ Edit Project** | Changes project settings | When you need to update paths or descriptions |
+| **💾 Backup** | Creates a zip archive of the project | Before making risky changes |
+| **🗑️ Delete Project** | Removes the project from the list (not the files!) | When the project is no longer needed |
+| **👨‍💻 Work on Project** | Opens the full-featured code editor | For serious coding work |
+| **🐛 Debug Project** | Opens the project in debug mode | When you need to find a bug |
+| **🔄 Update Version** | Changes the project version | After significant changes |
+
+### ✨ **Code Editor:**
+
+| Button / Hotkey | What It Does |
+| :--- | :--- |
+| **F5** | Run the current script |
+| **F8** | Start/stop debugging |
+| **F9** | Set/remove a breakpoint |
+| **Ctrl+S** | Save file |
+| **Ctrl+F** | Find in code |
+| **Ctrl+H** | Replace text |
+| **Ctrl+G** | Go to line |
+| **Ctrl+/** | Comment/uncomment |
+| **Ctrl+Shift+F** | Format code |
+| **Ctrl+B** | Create a backup |
+| **Ctrl+U** | Update project version |
+
+***
+
+## 📦 Dependency Management
+
+FreePy automatically analyzes your code and shows:
+
+✅ **Installed packages** – Already present in your system
+⚠️ **Missing packages** – Used in your code but not installed
+🔧 **Quick install** – Install missing packages with one click
+
+**Example:** If your code contains `import requests` but `requests` is not installed, FreePy will suggest installing it directly from the interface!
+
+### 🔄 Versioning System
+Supports Semantic Versioning:
+*   **MAJOR** (1.0.0 → 2.0.0) – Incompatible API changes
+*   **MINOR** (1.0.0 → 1.1.0) – New functionality with backward compatibility
+*   **PATCH** (1.0.0 → 1.0.1) – Bug fixes
+
+***
+
+## 💾 Safety & Backups
+
+**Automatic Backups:**
+*   ⏰ **Every 30 seconds** – Auto-save changes
+*   📁 **On close** – Backup when exiting
+*   🔄 **Before version update** – Save previous state
+*   🗂️ **Organized storage** – All backups in one folder
+
+**Restoring:**
+1.  Open the **"File"** menu
+2.  Select **"Load from Backup"**
+3.  Choose the desired version
+4.  FreePy will restore the file
+
+***
+
+## ❓ Frequently Asked Questions
+
+**🤔 Does FreePy delete my files?**
+No! FreePy only organizes them. All original files remain in their places.
+
+**🔒 Is it safe?**
+Yes! FreePy uses only local operations and does not send any data over the internet.
+
+**💰 Is it free?**
+Absolutely! FreePy is an open-source project under the MIT license.
+
+**🐍 Do I need Python?**
+Not for basic functions, but to run scripts and debug, you will need Python 3.6+.
+
+**📱 Is there a mobile version?**
+Not yet, but an iPadOS version is planned.
+
+**🐛 Found a bug?**
+1.  Check existing [Issues](https://github.com/GryfGreen/FreePy-IDE/issues)
+2.  Create a new issue with a detailed description
+3.  Attach screenshots and steps to reproduce
+
+***
+
+## 💖 Support the Project
+
+FreePy is developed in spare time. If the project has helped you:
+*   ⭐ **Give it a star** on GitHub
+*   🐛 **Report bugs**
+*   💡 **Suggest ideas**
+*   🔄 **Tell your friends**
+
+***
+
+## 📄 License
+
+FreePy is distributed under the MIT License. See the `LICENSE` file for details.
+
+## 👨‍💻 Author
+
+**GryfGreen** – A developer who got tired of chaos in Python projects.
+*   https://github.com/GryfGreen
+*   Telegram
+*   gryfgreen.gg@gmail.com
+
+***
+
+🎉 **Start organizing your code today! Download FreePy right now and say goodbye to chaos in your Python projects forever!** 🚀
+
+**P.S.** Your future self will thank you when, six months from now, you can find and run any of your projects.
+
 ---
+
+# 🐍 FreePy - Упорядочиваем хаос Python проектов
+
+**"Надоел беспорядок в проектах? FreePy превратит ваш рабочий стол из свалки скриптов в организованное пространство разработки!"**
 
 ## 😫 Бывало такое?
 
@@ -18,21 +332,21 @@
 
 **Если да - эта программа для вас!**
 
----
+***
 
 ## ✨ Что такое FreePy?
 
 **FreePy** - это не просто IDE, а ваш **персональный менеджер хаоса** для Python разработки.
 
 Он родился из отчаяния обычного разработчика, уставшего от:
-- Быстрых проектов, которые превращались в беспорядок
-- Мимолетных скриптов, которые оставались жить вечно
-- Собственного разгильдяйства (признаемся честно!)
-- И просто потому что "луна не в той фазе"! 🌙
+* Быстрых проектов, которые превращались в беспорядок
+* Мимолетных скриптов, которые оставались жить вечно
+* Собственного разгильдяйства (признаемся честно!)
+* И просто потому что "луна не в той фазе"! 🌙
 
 Когда я не нашёл ничего подходящего среди существующих IDE и менеджеров проектов - пришлось **выкручиваться**. Так появился FreePy.
 
----
+***
 
 ## 🖼️ Визуальный тур
 
@@ -96,68 +410,72 @@
 ![Точки останова](screenshots/breakpoints.png)
 *Легко устанавливайте, настраивайте и управляйте точками останова в вашем коде.*
 
----
+***
 
 ## 🚀 **Скачать FreePy**
 
-### Windows
-- **[FreePy_Windows_1.0.0.exe](releases/windows/FreePy_Windows_1.0.0.exe)** (64-bit)
-- Требуется: Windows 10/11, .NET Framework 4.8
-- !!!В Планах!!!
+> **📌 Важно:** Первый стабильный релиз для Linux готов! Версии для Windows и macOS находятся в активной разработке. Следите за обновлениями в [дорожной карте](https://github.com/GryfGreen/FreePy-IDE/issues/1).
 
-### macOS
-- **[FreePy_macOS_1.0.0.dmg](releases/macos/FreePy_macOS_1.0.0.dmg)** (Apple Silicon & Intel)
-- Требуется: macOS 11.0+
-- !!!В Планах!!!
+### Linux (Доступно сейчас)
+*   **[FreePy_Linux_1.0.0.AppImage](https://github.com/GryfGreen/FreePy-IDE/releases/latest)** (Universal) - Работает на большинстве дистрибутивов
+*   **[FreePy_Linux_1.0.0.deb](https://github.com/GryfGreen/FreePy-IDE/releases/latest)** (Для Debian/Ubuntu/Mint)
+*   Требуется: Qt5, Python 3.6+
 
-### Linux
-- **[FreePy_Linux_1.0.0.AppImage](releases/linux/FreePy_Linux_1.0.0.AppImage)** (Universal)
-- **[FreePy_Linux_1.0.0.deb](releases/linux/FreePy_Linux_1.0.0.deb)** (Debian/Ubuntu)
-- Требуется: Qt5, Python 3.6+
+### Windows (В разработке)
+*   **FreePy_Windows_1.0.0.exe** (64-bit)
+*   Требуется: Windows 10/11, .NET Framework 4.8
+*   *Скоро будет!*
 
----
+### macOS (В разработке)
+*   **FreePy_macOS_1.0.0.dmg** (Apple Silicon & Intel)
+*   Требуется: macOS 11.0+
+*   *Скоро будет!*
+
+**📥 Скачайте последнюю сборку на [странице релизов](https://github.com/GryfGreen/FreePy-IDE/releases).**
+
+***
 
 ## 🎯 **Основные возможности**
 
 ### 📁 **Управление проектами**
-- **Структурирование** всех ваших Python проектов в одном месте
-- **Автоматическое отслеживание** версий проекта (больше никаких `_final_v3.py`)
-- **JSON конфигурация** каждого проекта - всегда знаете, что и как запускать
-- **Быстрый доступ** ко всем проектам из единого списка
+*   **Структурирование** всех ваших Python проектов в одном месте
+*   **Автоматическое отслеживание** версий проекта (больше никаких `_final_v3.py`)
+*   **JSON конфигурация** каждого проекта - всегда знаете, что и как запускать
+*   **Быстрый доступ** ко всем проектам из единого списка
 
 ### ✨ **Умный редактор**
-- **Подсветка синтаксиса** Python с поддержкой всех фич языка
-- **Автодополнение** кода (не нужно помнить каждый метод наизусть)
-- **Проверка PEP 8** - ваш код будет чистым и красивым
-- **Форматирование** одним кликом
-- **Темы**: светлая и темная (для ночных сессий кодинга)
+*   **Подсветка синтаксиса** Python с поддержкой всех фич языка
+*   **Автодополнение** кода (не нужно помнить каждый метод наизусть)
+*   **Проверка PEP 8** - ваш код будет чистым и красивым
+*   **Форматирование** одним кликом
+*   **Темы**: светлая и темная (для ночных сессий кодинга)
 
 ### 🐛 **Встроенный отладчик**
-- **Интеграция с PDB** - настоящий дебаггер, а не `print()`
-- **Точки останова** обычные и условные
-- **Шаг за шагом**: Step Into, Step Over, Step Out
-- **Просмотр переменных** в реальном времени
-- **Стек вызовов** - видите где находитесь
+*   **Интеграция с PDB** - настоящий дебаггер, а не `print()`
+*   **Точки останова** обычные и условные
+*   **Шаг за шагом**: Step Into, Step Over, Step Out
+*   **Просмотр переменных** в реальном времени
+*   **Стек вызовов** - видите где находитесь
 
 ### 📦 **Управление зависимостями**
-- **Автоопределение** импортов в коде
-- **Проверка установленных** пакетов
-- **Быстрая установка** недостающих зависимостей
-- **Никаких забытых** `requirements.txt`
+*   **Автоопределение** импортов в коде
+*   **Проверка установленных** пакетов
+*   **Быстрая установка** недостающих зависимостей
+*   **Никаких забытых** `requirements.txt`
 
 ### 🔄 **Система версионирования**
-- **Семантическое версионирование** (1.2.3)
-- **История изменений** с комментариями
-- **Автоматическое обновление** версий при изменениях
-- **Откат** к предыдущим версиям
+*   **Семантическое версионирование** (1.2.3)
+*   **История изменений** с комментариями
+*   **Автоматическое обновление** версий при изменениях
+*   **Откат** к предыдущим версиям
 
 ### 💾 **Безопасность и бэкапы**
-- **Автосохранение** каждые 30 секунд
-- **Автоматические бэкапы** (никогда не потеряете код)
-- **Восстановление** из любой резервной копии
-- **Проверка безопасности** запускаемых команд
+*   **Автосохранение** каждые 30 секунд
+*   **Автоматические бэкапы** (никогда не потеряете код)
+*   **Восстановление** из любой резервной копии
+*   **Проверка безопасности** запускаемых команд
 
----
+***
 
 ## 🎮 **Как пользоваться: Быстрый старт**
 
@@ -173,11 +491,11 @@
 3. Используйте **Ctrl+/** для комментариев, **Tab** для отступов
 
 ### Шаг 3: Запускаем и отлаживаем
-- **F5** - Запустить код
-- **F8** - Запустить отладчик
-- **F9** - Поставить/убрать точку останова
-- **F10** - Шаг с обходом (Step Over)
-- **F11** - Шаг с заходом (Step Into)
+*   **F5** - Запустить код
+*   **F8** - Запустить отладчик
+*   **F9** - Поставить/убрать точку останова
+*   **F10** - Шаг с обходом (Step Over)
+*   **F11** - Шаг с заходом (Step Into)
 
 ### Шаг 4: Управляем версиями
 1. После значимых изменений нажмите **"Обновить версию"**
@@ -185,7 +503,7 @@
 3. Добавьте комментарий что изменили
 4. FreePy сохранит историей изменений
 
----
+***
 
 ## 🛠️ **Подробное описание кнопок**
 
@@ -219,94 +537,91 @@
 | **Ctrl+B** | Создать бэкап |
 | **Ctrl+U** | Обновить версию проекта |
 
----
+***
 
 ## 📦 Управление зависимостями
+
 FreePy автоматически анализирует ваш код и показывает:
 
-✅ Установленные пакеты - уже есть в системе
-⚠️ Неустановленные пакеты - используются в коде, но не установлены
-🔧 Быстрая установка - одним кликом установите недостающие пакеты
+✅ **Установленные пакеты** - уже есть в системе
+⚠️ **Неустановленные пакеты** - используются в коде, но не установлены
+🔧 **Быстрая установка** - одним кликом установите недостающие пакеты
 
-Пример:
-Если ваш код содержит import requests, но requests не установлен, FreePy предложит установить его прямо из интерфейса!
+**Пример:** Если ваш код содержит `import requests`, но `requests` не установлен, FreePy предложит установить его прямо из интерфейса!
 
-🔄 Система версионирования
+### 🔄 Система версионирования
 Поддерживает семантическое версионирование:
-MAJOR (1.0.0 → 2.0.0) - несовместимые изменения API
+*   **MAJOR** (1.0.0 → 2.0.0) - несовместимые изменения API
+*   **MINOR** (1.0.0 → 1.1.0) - новая функциональность с обратной совместимостью
+*   **PATCH** (1.0.0 → 1.0.1) - исправления ошибок
 
-MINOR (1.0.0 → 1.1.0) - новая функциональность с обратной совместимостью
-
-PATCH (1.0.0 → 1.0.1) - исправления ошибок
-
----
+***
 
 ## 💾 Безопасность и бэкапы
-Автоматические бэкапы:
-⏰ Каждые 30 секунд - автосохранение изменений
 
-📁 При закрытии - резервная копия при выходе
+**Автоматические бэкапы:**
+*   ⏰ **Каждые 30 секунд** - автосохранение изменений
+*   📁 **При закрытии** - резервная копия при выходе
+*   🔄 **Перед обновлением версии** - сохранение предыдущего состояния
+*   🗂️ **Организованное хранение** - все бэкапы в одной папке
 
-🔄 Перед обновлением версии - сохранение предыдущего состояния
+**Восстановление:**
+1.  Откройте меню **"Файл"**
+2.  Выберите **"Загрузить из резервной копии"**
+3.  Выберите нужную версию
+4.  FreePy восстановит файл
 
-🗂️ Организованное хранение - все бэкапы в одной папке
+***
 
-Восстановление:
-Откройте меню "Файл"
+## ❓ Часто задаваемые вопросы
 
-Выберите "Загрузить из резервной копии"
-
-Выберите нужную версию
-
-FreePy восстановит файл
-
----
-
-❓ Часто задаваемые вопросы
-🤔 FreePy удаляет мои файлы?
+**🤔 FreePy удаляет мои файлы?**
 Нет! FreePy только организует их. Все исходные файлы остаются на своих местах.
 
-🔒 Безопасно ли это?
+**🔒 Безопасно ли это?**
 Да! FreePy использует только локальные операции и не отправляет данные в интернет.
 
-💰 Это бесплатно?
+**💰 Это бесплатно?**
 Абсолютно! FreePy - проект с открытым исходным кодом под лицензией MIT.
 
-🐍 Нужен ли Python?
+**🐍 Нужен ли Python?**
 Для базовых функций не нужен, но для запуска скриптов и отладки потребуется Python 3.6+.
 
-📱 Есть ли мобильная версия?
+**📱 Есть ли мобильная версия?**
 Пока нет, но в планах есть версия для iPadOS.
 
-🐛 Нашли ошибку?
-Проверьте существующие issues
+**🐛 Нашли ошибку?**
+1.  Проверьте существующие [Issues](https://github.com/GryfGreen/FreePy-IDE/issues)
+2.  Создайте новый issue с подробным описанием
+3.  Приложите скриншоты и шаги для воспроизведения
 
-Создайте новый issue с подробным описанием
+***
 
-Приложите скриншоты и шаги для воспроизведения
+## 💖 Поддержать проект
 
-💖 Поддержать проект
 FreePy разрабатывается в свободное время. Если проект вам помог:
+*   ⭐ **Поставьте звезду** на GitHub
+*   🐛 **Сообщайте об ошибках**
+*   💡 **Предлагайте идеи**
+*   🔄 **Расскажите друзьям**
 
-⭐ Поставьте звезду на GitHub
+***
 
-🐛 Сообщайте об ошибках
+## 📄 Лицензия
 
-💡 Предлагайте идеи
+FreePy распространяется под лицензией MIT. Подробности в файле `LICENSE`.
 
-🔄 Расскажите друзьям
+## 👨‍💻 Автор
 
-📄 Лицензия
-FreePy распространяется под лицензией MIT. Подробности в файле LICENSE.
+**GryfGreen** - разработчик, который устал от хаоса в Python проектах.
+*   https://github.com/GryfGreen
+*   Telegram
+*   gryfgreen.gg@gmail.com
 
-👨‍💻 Автор
-GryfGreen - разработчик, который устал от хаоса в Python проектах.
+***
 
-https://github.com/GryfGreen | Telegram | gryfgreen.gg@gmail.com
+🎉 **Начните упорядочивать свой код сегодня! Скачайте FreePy прямо сейчас и навсегда избавьтесь от хаоса в Python проектах!** 🚀
 
-🎉 Начните упорядочивать свой код сегодня!
-Скачайте FreePy прямо сейчас и навсегда избавьтесь от хаоса в Python проектах! 🚀
-
-P.S. Ваш будущий я скажет вам спасибо, когда через полгода вы сможете найти и запустить любой свой проект за 30 секунд! 😉
+**P.S.** Ваш будущий я скажет вам спасибо, когда через полгода вы сможете найти и запустить любой свой проект за 30 секунд! 😉
 
 

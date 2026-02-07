@@ -221,29 +221,6 @@
 
 ---
 
-## ## 📊 **Сравнение: До FreePy и После**
-### 🗑️ **До:**
-Рабочий стол/
-├── test.py
-├── test2.py
-├── final.py
-├── really_final.py
-├── project_old/
-├── new_idea.py
-└── temp_script.py
-
-text
-### 🏗️ **После:**
-FreePy/
-├── Проекты/
-│ ├── WebScraper (v1.2.3)
-│ ├── DataAnalysis (v2.0.0)
-│ ├── ML_Model (v1.5.0)
-│ └── API_Service (v3.1.0)
-└── Резервные копии/
-
----
-
 ## 📦 Управление зависимостями
 FreePy автоматически анализирует ваш код и показывает:
 

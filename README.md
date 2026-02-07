@@ -4,7 +4,7 @@
 
 [![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20macOS%20%7C%20Linux-blue)](https://github.com/GryfGreen/FreePy-IDE/releases)
 [![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
-
+[![GitHub Release](https://img.shields.io/github/v/release/GryfGreen/FreePy-IDE)](https://github.com/GryfGreen/FreePy-IDE/releases)
 ---
 
 ## 😫 Бывало такое?

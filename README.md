@@ -1,6 +1,6 @@
 # 🐍 FreePy - Tame Your Python Chaos / Упорядочиваем хаос Python проектов
 
-> **🌍 Choose your language / Выберите язык:** [English](#-freepy---tame-your-python-chaos) | [Русский](#-freepy---упорядочиваем-хаос-python-проектов-1)
+> **🌍 Choose your language / Выберите язык:** [English](#-freepy---tame-your-python-chaos) | [Русский](#-freepy---упорядочиваем-хаос-python-проектов)
 
 [![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20macOS%20%7C%20Linux-blue)](https://github.com/GryfGreen/FreePy-IDE/releases)
 [![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)

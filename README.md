@@ -9,13 +9,9 @@
 ![FreePy Logo](screenshots/FreePy.jpg)
 ***
 
-# 🐍 FreePy - Tame Your Python Chaos {#english-section}
-
-**"Tired of project chaos? FreePy transforms your desktop from a script junkyard into an organized developer workspace!"*
-
 # 🐍 FreePy - Tame Your Python Chaos {#english}
 
-**"Tired of project chaos? FreePy transforms your desktop from a script junkyard into an organized developer workspace!"**
+**"Tired of project chaos? FreePy transforms your desktop from a script junkyard into an organized developer workspace!"*
 
 ## 😫 Does This Sound Familiar?
 

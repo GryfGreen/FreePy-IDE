@@ -1,6 +1,6 @@
 # 🐍 FreePy - Tame Your Python Chaos / Упорядочиваем хаос Python проектов
 
-> **🌍 Choose your language / Выберите язык:** [English](#freepy---tame-your-python-chaos) | [Русский](#freepy---упорядочиваем-хаос-python-проектов)
+> **🌍 Choose your language / Выберите язык:** [English](#english) | [Русский](#russian)
 
 [![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20macOS%20%7C%20Linux-blue)](https://github.com/GryfGreen/FreePy-IDE/releases)
 [![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
@@ -9,7 +9,8 @@
 ![FreePy Logo](screenshots/FreePy.jpg)
 ***
 
-# 🐍 FreePy - Tame Your Python Chaos {#english}
+<a id="english"></a>
+# 🐍 FreePy - Tame Your Python Chaos
 
 **"Tired of project chaos? FreePy transforms your desktop from a script junkyard into an organized developer workspace!"*
 
@@ -318,7 +319,8 @@ FreePy is distributed under the MIT License. See the `LICENSE` file for details.
 
 ---
 
-# 🐍 FreePy - Упорядочиваем хаос Python проектов {#russian}
+<a id="russian"></a>
+# 🐍 FreePy - Упорядочиваем хаос Python проектов
 
 **"Надоел беспорядок в проектах? FreePy превратит ваш рабочий стол из свалки скриптов в организованное пространство разработки!"**
 

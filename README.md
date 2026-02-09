@@ -6,6 +6,7 @@
 [![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
 [![GitHub Release](https://img.shields.io/github/v/release/GryfGreen/FreePy-IDE)](https://github.com/GryfGreen/FreePy-IDE/releases)
 
+![FreePy Logo](screenshots/FreePy.jpg)
 ***
 
 # 🐍 FreePy - Tame Your Python Chaos

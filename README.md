@@ -110,8 +110,8 @@ When I couldn't find anything suitable among existing IDEs and project managers,
 > **📌 Important:** The first stable Linux release is ready! Windows and macOS versions are in active development. Follow our [Roadmap](https://github.com/GryfGreen/FreePy-IDE/issues/1) for updates.
 
 ### Linux (Available Now)
-*   **[FreePy_Linux_1.0.0.AppImage](https://github.com/GryfGreen/FreePy-IDE/releases/latest)** (Universal) - Works on most distributions
-*   **[FreePy_Linux_1.0.0.deb](https://github.com/GryfGreen/FreePy-IDE/releases/latest)** (For Debian/Ubuntu/Mint)
+*   **[FreePy_Linux.AppImage](https://github.com/GryfGreen/FreePy-IDE/releases/latest)** (Universal) - Works on most distributions
+*   **[FreePy_Linux.deb](https://github.com/GryfGreen/FreePy-IDE/releases/latest)** (For Debian/Ubuntu/Mint)
 *   **Requirements:** Qt5 libraries, Python 3.6+
 
 ### Windows (In Development)
@@ -420,8 +420,8 @@ FreePy is distributed under the MIT License. See the `LICENSE` file for details.
 > **📌 Важно:** Первый стабильный релиз для Linux готов! Версии для Windows и macOS находятся в активной разработке. Следите за обновлениями в [дорожной карте](https://github.com/GryfGreen/FreePy-IDE/issues/1).
 
 ### Linux (Доступно сейчас)
-*   **[FreePy_Linux_1.0.0.AppImage](https://github.com/GryfGreen/FreePy-IDE/releases/latest)** (Universal) - Работает на большинстве дистрибутивов
-*   **[FreePy_Linux_1.0.0.deb](https://github.com/GryfGreen/FreePy-IDE/releases/latest)** (Для Debian/Ubuntu/Mint)
+*   **[FreePy_Linux.AppImage](https://github.com/GryfGreen/FreePy-IDE/releases/latest)** (Universal) - Работает на большинстве дистрибутивов
+*   **[FreePy_Linux.deb](https://github.com/GryfGreen/FreePy-IDE/releases/latest)** (Для Debian/Ubuntu/Mint)
 *   Требуется: Qt5, Python 3.6+
 
 ### Windows (В разработке)

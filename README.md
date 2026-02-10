@@ -46,61 +46,61 @@ When I couldn't find anything suitable among existing IDEs and project managers,
 ### 📊 Project Control Panel
 
 #### Main Window - Chaos Control Center
-![Main Window](screenshots/main-window.png)
+![Main Window](screenshots/main-window-en.png)
 *Your launchpad for all Python projects. All projects are organized, sorted, and ready to work.*
 
 #### Import Existing Project
-![Import Project](screenshots/import-project.png)
+![Import Project](screenshots/import-project-en.png)
 *Simply point to a folder with your code – FreePy will automatically detect the structure and add the project to the list.*
 
 #### Edit Project
-![Edit Project](screenshots/edit-project.png)
+![Edit Project](screenshots/edit-project-en.png)
 *Update paths, change descriptions, configure settings – all in one convenient window.*
 
 #### Update Project Version
-![Update Version](screenshots/update-version.png)
+![Update Version](screenshots/update-version-en.png)
 *Intuitive interface for version management. Choose the update type, add a comment – FreePy handles the rest.*
 
 ### ✨ Intelligent Code Editor
 
 #### Editor with Syntax Highlighting (Dark Theme)
-![Editor Dark](screenshots/editor-dark.png)
+![Editor Dark](screenshots/editor-dark-en.png)
 *Professional Python code highlighting with support for all modern language features.*
 
 #### Remove Comments - BEFORE
-![Comments Before](screenshots/comments-before.png)
+![Comments Before](screenshots/comments-before-en.png)
 *Code cluttered with comments, making it hard to read and maintain.*
 
 #### Remove Comments - AFTER
-![Comments After](screenshots/comments-after.png)
+![Comments After](screenshots/comments-after-en.png)
 *Clean, compact code after automatic removal of all comments with a single button!*
 
 ### 📝 Workspace
 
 #### Project Notes Panel
-![Notes](screenshots/notes.png)
+![Notes](screenshots/notes-en.png)
 *Built-in notepad for each project. Jot down ideas, tasks, and notes right in the editor.*
 
 #### Program Output Panel
-![Output](screenshots/output.png)
+![Output](screenshots/output-en.png)
 *Your code execution results. All messages, errors, and debug information in one place.*
 
 #### Detected Errors Panel
-![Errors](screenshots/errors.png)
+![Errors](screenshots/errors-en.png)
 *Automatic detection of syntax errors, PEP 8 issues, and potential bugs.*
 
 #### Python Package Management
-![Packages](screenshots/packages.png)
+![Packages](screenshots/packages-en.png)
 *Intelligent dependency management. FreePy analyzes your code and shows which packages are installed and which need to be added.*
 
 ### 🐛 Professional Debugger
 
 #### Built-in Python Debugger
-![Debugger](screenshots/debugger.png)
+![Debugger](screenshots/debugger-en.png)
 *A full-fledged debugging environment with breakpoints, variable watch, call stack, and interactive console.*
 
 #### Breakpoint Management
-![Breakpoints](screenshots/breakpoints.png)
+![Breakpoints](screenshots/breakpoints-en.png)
 *Easily set, configure, and manage breakpoints in your code.*
 
 ***
@@ -626,5 +626,4 @@ FreePy распространяется под лицензией MIT. Подр�
 🎉 **Начните упорядочивать свой код сегодня! Скачайте FreePy прямо сейчас и навсегда избавьтесь от хаоса в Python проектах!** 🚀
 
 **P.S.** Ваш будущий я скажет вам спасибо, когда через полгода вы сможете найти и запустить любой свой проект за 30 секунд! 😉
-
 
